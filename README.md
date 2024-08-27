@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tavjppro215
+- 👋 Hi, I’m Thai Anh
 - 👀 I’m interested in Software and AI/DS
 - 🌱 I’m currently learning .NET and Machine Learning
 - 😄 Pronouns: Thai Anh or TA 
